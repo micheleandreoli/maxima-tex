@@ -134,7 +134,10 @@ Se the docs/*.png files in the installation directory.
 Screenshots
 --------------
 
+![TeXStudio](texstudio1.png)
 
-![lyx working](win-lyx-setup.png)
-![lyx working](lyx-working.png)
+![win setup](win-lyx-setup.png)
+
+![lyx](lyx-working.png)
+
 
