@@ -99,9 +99,11 @@ For the trick to work, you need to add the following line in your Latex preamble
 
 a. In Windows:
 
+
    ```
 	\input{c://maxima-tex/maxima.tex}
 	```
+
 a. In Linux:
 
    ```
@@ -127,4 +129,4 @@ Normally, these software use the **pdflatex** command to produce the PDF. For th
 Further info
 --------------
 
-Se the *.png files in this directory.
+Se the docs/*.png files in the installation directory.
