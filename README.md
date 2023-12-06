@@ -130,3 +130,11 @@ Further info
 --------------
 
 Se the docs/*.png files in the installation directory.
+
+Screenshots
+--------------
+
+
+![lyx working](win-lyx-setup.png)
+![lyx working](lyx-working.png)
+
