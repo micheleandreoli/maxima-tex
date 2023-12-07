@@ -137,6 +137,11 @@ Normally, these software use the **pdflatex** command to produce the PDF. For th
    -shell-escape
    ```
 
+Test with
+-------------
+
+1. In Linux: Maxima 5.45.1, Lyx 2.3.7-1, texstudio  4.3.1+ds-2
+1. In Windows 11: Maxima 5.47, Lyx 2.3.7
 
 
 Screenshots
