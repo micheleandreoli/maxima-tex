@@ -2,6 +2,13 @@ MAXIMA-TEX v1.0
 ===========================
 *Maxima and LaTeX integration*
 
+
+![lyx](lyx-working.png)
+
+
+
+
+
 License
 ------
 GPL, Copyright: Michele Andreoli (2023), PhD, CNR, Italy
@@ -9,7 +16,7 @@ GPL, Copyright: Michele Andreoli (2023), PhD, CNR, Italy
 The scope
 -------------------
 
-This package allows to embed MAXIMA code in LaTeX, in the form:
+This package allows to embed MAXIMA code in LaTeX, in the form [^1]):
 
 ```
 	\m{expr1; expr2; expr3; ...}
@@ -19,6 +26,10 @@ This package allows to embed MAXIMA code in LaTeX, in the form:
 The macro itself will be replaced by the result of Maxima's computation.
 
 >> **Note** *If the last expresson is ended with a “;”, the result of the whole computation will be discarded.*
+
+[^1]:) In the LyX screenshots above here, the \\M macro is also used. It is completely identical to \\m, but produces a result in two columns: on the first the Maxima code; in the second the TeX output.
+
+
 
 Examples
 -----------
@@ -126,10 +137,7 @@ Normally, these software use the **pdflatex** command to produce the PDF. For th
    -shell-escape
    ```
 
-Further info
---------------
 
-Se the docs/*.png files in the installation directory.
 
 Screenshots
 --------------
@@ -138,6 +146,5 @@ Screenshots
 
 ![win setup](win-lyx-setup.png)
 
-![lyx](lyx-working.png)
 
 
