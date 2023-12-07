@@ -12,6 +12,7 @@ MAXIMA-TEX v1.0
 License
 ------
 GPL, Copyright: Michele Andreoli (2023), PhD, CNR, Italy
+
 (http://www.micheleandreoli.org)
 
 The scope
